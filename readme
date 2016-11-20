@@ -1,0 +1,8 @@
+Files produced during the Hackathon at TOG hackerspace on the 19th-20th November 2016
+
+Python scripts by Tristan J
+arduino sketches by Matthieu Reveillard 
+mechanical pieces modelised by Maeliss Drieu
+
+The project is uncomplete as the arduino sketch currently expects a fixed length command whereas the python script sends motor control commands 
+with varying length.
